@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css3/main2.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800&display=swap" rel="stylesheet">
+    <title>Rocket Services net</title>
+</head>
+<body>
+<header>
+        <nav>
+            <div class="logo">
+                <a href=""><img src="imagenes/Oikya_Front_Logo.png" alt=""></a>
+            </div>
+            <ul class="ule">
+                <li><a href="">DÉVELOPPEMENTS</a></li>
+                <li><a href="">INFOGÉRANCE</a></li>
+                <li><a href="">CONSULTING</a></li>
+                <li><a href="">CONTACT</a></li>
+            </ul>
+            <div class="lineas_menu">
+                <div class="burguer"></div>
+            </div>
+        </nav>
+    </header>
+    <div class="background__primary">
+        <h1>Infogerance De Votre Infrastructure.</h1>
+        <p>
+             Nous pouvons vous accompagner dans tous vos projets de developpements, de i'ntranet au sitee-commerce.
+        </p>
+        <div class="contact">
+            <h3><a href="#">CONTACTEZ NOUS ></a></h3>
+        </div>
+        <div class="article_visual">
+            <div class="center-article">
+
+                <div class="e-commerce">
+                    <img src="imagenes/svg/001-server-3.svg" alt="">
+                    <h5>E-COMMERCE</h5>
+                </div>
+                <hr>
+                <div class="mobile">
+                    <img src="imagenes/svg/067-ram.svg" alt="">
+                    <h5>MOBILE</h5>
+                </div>
+                <hr>
+                <div class="desktop">
+                    <img src="imagenes/svg/092-monitor.svg" alt="">
+                    <h5>DESKTOP</h5>
+                </div>
+                <hr>
+                <div class="web-aplication">
+                    <img src="imagenes/svg/049-server.svg" alt="">
+                    <h5>WEB APLICATION</h5>
+                </div>
+            </div>
+        </div> 
+    </div>
+    <section class="seccion-pre">
+        <div class="previe-web">
+            <img src="imagenes/0021.webp" alt="">
+        </div>
+        <div class="desc-web">
+            <p>CASE STUDY</p>
+            <h4>Billon immobilier:
+                Refonte du site
+                Internet Expertise
+                Loremp Ipsun core
+            </h4>
+        </div>
+    </section>  
+    <script src="javascrip/translateMenu.js"></script>
+</body>
+</html>
